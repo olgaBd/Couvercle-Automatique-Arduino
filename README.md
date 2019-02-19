@@ -1,9 +1,10 @@
 # **Couvercle poubelle automatique**
 
-Ce projet a été réalisé par @Nazar.ZB et @olgaBD
+Ce projet à été réalisé par [@OlgaBd](https://github.com/olgaBd); [@]@Nazar.ZB(https://github.com/@Nazar.ZB);
 
 ## **Vidéo :** 
 [![video](https://img.youtube.com/vi/lu7Z7bEkcFc/0.jpg)](https://www.youtube.com/watch?v=lu7Z7bEkcFc)
+
 # Branchements 
 
 ![Schéma](https://image.noelshack.com/fichiers/2019/05/2/1548778068-shema-bb.png)
@@ -11,7 +12,7 @@ Ce projet a été réalisé par @Nazar.ZB et @olgaBD
 
 # Matériels utilisés 
 
-> - [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3)
+> -[Arduino Uno](https://store.arduino.cc/arduino-uno-rev3)
 > ![Arduino](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/520x330/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_1_.jpg)
 
 > - [Capteur de proximité](https://www.generationrobots.com/fr/401575-capteur-sonar-%C3%A0-ultrasons-hc-sr04.html)
