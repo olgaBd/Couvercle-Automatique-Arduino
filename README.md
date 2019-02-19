@@ -1,6 +1,6 @@
 # **Couvercle poubelle automatique**
 
-Ce projet à été réalisé par [@OlgaBd](https://github.com/olgaBd); [@]@Nazar.ZB(https://github.com/@Nazar.ZB);
+Ce projet à été réalisé par [@OlgaBd](https://github.com/olgaBd); [@]@Nazar.ZB](https://github.com/@Nazar.ZB);
 
 ## **Vidéo :** 
 [![video](https://img.youtube.com/vi/lu7Z7bEkcFc/0.jpg)](https://www.youtube.com/watch?v=lu7Z7bEkcFc)
